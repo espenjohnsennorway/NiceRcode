@@ -1,0 +1,6 @@
+# This is a test ----
+# Plot function
+x <- 1:10
+plot(x,x^2)
+
+## This is new
