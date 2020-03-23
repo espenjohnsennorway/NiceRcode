@@ -1,2 +1,3 @@
 Dette er j bare tull
 Nå tester jeg ny linje
+Dette er fra Github
