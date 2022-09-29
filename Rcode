@@ -5,4 +5,7 @@ plot(x,x^2)
 
 ## This is new
 lines(x+0.1,x^2,col=red)
-lines(x-0.1,x^2,col=blue)
+
+## New plot
+plot(x)
+
